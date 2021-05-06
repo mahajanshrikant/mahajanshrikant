@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Shrikant Mahajan from India, and I am working as Software Engineer. I really enjoy the figuring out the solution for coding problems.
+
 <!--
 **mahajanshrikant/mahajanshrikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
