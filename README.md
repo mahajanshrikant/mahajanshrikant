@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **SpringBoot, Hibernate , Java 8 , Angular 6+ ,AWS**
 
-- 📫 How to reach me **shrikantmahajan@10gmail.com**
+- 📫 How to reach me **shrikantmahajan10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,5 +37,5 @@
 
 
 
-[![Shrikant GitHub stats](https://github-readme-stats.vercel.app/api?username=mahajanshrikant)](https://github.com/anuraghazra/github-readme-stats)
+
 
