@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrikant Mahajan</h1>
-<h3 align="center">I'm Shrikant Mahajan from India, and I am working as Software Engineer. I really enjoy the figuring out the solution for coding problems.</h3>
+<h3 align="center">I'm Shrikant Mahajan from India, and I am working as Senior Software Engineer. I really enjoy the figuring out the solution for coding problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahajanshrikant&label=Profile%20views&color=0e75b6&style=flat" alt="mahajanshrikant" /> </p>
 
